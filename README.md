@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   ## 📞 Contact 📞
 
   <div style="display:flex; flex-direction:row;">
-    <a href="https://t.me/Found_KT">
+    <a href="https://t.me/ow9kj1w">
         <img src="https://img.shields.io/badge/Telegram-007ACC?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
   </div>
