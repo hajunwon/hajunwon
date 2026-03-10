@@ -1,13 +1,17 @@
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="256" height="256" rx="60" fill="#242938"/>
+  <!-- Frida logo: white text on coral rounded rect -->
+  <rect x="38" y="78" width="180" height="100" rx="12" fill="#EF6456"/>
   <!-- F -->
-  <path d="M44 170V86h12v36h20V86h12v84H76v-36H56v36z" fill="#EF6456" transform="translate(0,0)"/>
-  <!-- Reversed R -->
-  <path d="M100 170V86h24c14 0 22 8 22 22s-8 22-22 22h-2l24 40h-14l-22-38h-8v38zm12-50h12c6 0 10-4 10-10s-4-10-10-10h-12z" fill="#EF6456" transform="translate(256,0) scale(-1,1)"/>
+  <path d="M62 148V108h8v16h14v6H70v18z" fill="white"/>
+  <!-- Reversed R (mirrored) -->
+  <g transform="translate(174,0) scale(-1,1)">
+    <path d="M86 148V108h14c8 0 13 5 13 13 0 6-3 10-8 12l10 15h-9l-9-14h-3v14zm8-20h6c4 0 6-2 6-6s-2-6-6-6h-6z" fill="white"/>
+  </g>
   <!-- I -->
-  <rect x="130" y="86" width="12" height="84" fill="#EF6456"/>
+  <rect x="118" y="108" width="8" height="40" fill="white"/>
   <!-- D -->
-  <path d="M152 170V86h20c20 0 34 14 34 42s-14 42-34 42zm12-12h8c14 0 22-10 22-30s-8-30-22-30h-8z" fill="#EF6456"/>
+  <path d="M136 148V108h12c12 0 20 8 20 20s-8 20-20 20zm8-6h4c8 0 12-5 12-14s-4-14-12-14h-4z" fill="white"/>
   <!-- A -->
-  <path d="M216 170l-20-84h14l14 64 14-64h14l-20 84z" fill="#EF6456" transform="translate(-12,0)"/>
+  <path d="M178 148l-14-40h9l10 30 10-30h9l-14 40z" fill="white"/>
 </svg>
