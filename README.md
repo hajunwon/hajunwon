@@ -41,17 +41,10 @@
 <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="ML"/>
 
 <h3>Testing & Automation</h3>
-<img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Testing"/>
-<br/>
-<img src="https://img.shields.io/badge/Playwright-white?style=for-the-badge&logo=playwright&logoColor=2EAD33&color=1a1b27" alt="Playwright"/>
-<img src="https://img.shields.io/badge/Puppeteer-white?style=for-the-badge&logo=puppeteer&logoColor=40B5A4&color=1a1b27" alt="Puppeteer"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,playwright,puppeteer&theme=dark" alt="Testing"/>
 
 <h3>Security & Reverse Engineering</h3>
-<img src="https://img.shields.io/badge/Burp_Suite-white?style=for-the-badge&logo=burpsuite&logoColor=FF6633&color=1a1b27" alt="Burp Suite"/>
-<img src="https://img.shields.io/badge/Frida-white?style=for-the-badge&logo=frida&logoColor=EF6456&color=1a1b27" alt="Frida"/>
-<img src="https://img.shields.io/badge/JADX-white?style=for-the-badge&logo=android&logoColor=3DDC84&color=1a1b27" alt="JADX"/>
-<img src="https://img.shields.io/badge/Magisk-white?style=for-the-badge&logo=magisk&logoColor=00AF9C&color=1a1b27" alt="Magisk"/>
-<img src="https://img.shields.io/badge/LSPosed-white?style=for-the-badge&logo=xda-developers&logoColor=F59812&color=1a1b27" alt="LSPosed"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite,frida,jadx,magisk,lsposed&theme=dark" alt="Security"/>
 
 <h3>Tools</h3>
 <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,git,github&theme=dark" alt="Tools"/>
@@ -69,9 +62,6 @@
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hajunwon&theme=tokyonight" alt="Profile Details" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hajunwon&theme=tokyonight" alt="Repos per Language" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hajunwon&theme=tokyonight" alt="Most Commit Language" height="180"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hajunwon&theme=tokyonight" alt="Stats" height="180"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hajunwon&theme=tokyonight&utcOffset=9" alt="Productive Time" height="180"/>
