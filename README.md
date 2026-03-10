@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+<h2>🧑‍💻 About Me</h2>
 
 > 풀스택을 지향하는 개발자
 
@@ -24,59 +24,58 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
 <div align="center">
 
-### Languages
+<h3>Languages</h3>
 <img src="https://skillicons.dev/icons?i=js,ts,python,cs,kotlin&theme=dark" alt="Languages"/>
 
-### Frameworks & Runtime
+<h3>Frameworks & Runtime</h3>
 <img src="https://skillicons.dev/icons?i=nodejs,electron,dotnet&theme=dark" alt="Frameworks"/>
 
-### Cloud & DevOps
+<h3>Cloud & DevOps</h3>
 <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="Cloud"/>
 
-### AI / ML
+<h3>AI / ML</h3>
 <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="ML"/>
 
-### Testing & Automation
+<h3>Testing & Automation</h3>
 <img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Testing"/>
-&nbsp;
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer"/>
 
-### Security & Reverse Engineering
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Frida](https://img.shields.io/badge/Frida-EF6456?style=for-the-badge&logo=frida&logoColor=white)
-![JADX](https://img.shields.io/badge/JADX-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Magisk](https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=magisk&logoColor=white)
-![LSPosed](https://img.shields.io/badge/LSPosed-5B4FCF?style=for-the-badge&logo=xda-developers&logoColor=white)
+<h3>Security & Reverse Engineering</h3>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Frida-EF6456?style=for-the-badge&logo=frida&logoColor=white" alt="Frida"/>
+<img src="https://img.shields.io/badge/JADX-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="JADX"/>
+<img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=magisk&logoColor=white" alt="Magisk"/>
+<img src="https://img.shields.io/badge/LSPosed-5B4FCF?style=for-the-badge&logo=xda--developers&logoColor=white" alt="LSPosed"/>
 
-### Tools
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github&theme=dark" alt="Tools"/>
+<h3>Tools</h3>
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,git,github&theme=dark" alt="Tools"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hajunwon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E54E9&icon_color=8E54E9&count_private=true" alt="GitHub Stats" height="180"/>
-&nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hajunwon&theme=tokyonight&hide_border=true&background=0D1117&ring=8E54E9&fire=8E54E9&currStreakLabel=8E54E9" alt="GitHub Streak" height="180"/>
 
 <br/><br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=hajunwon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E54E9&icon_color=8E54E9&count_private=true" alt="GitHub Stats" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajunwon&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E54E9&layout=compact&langs_count=8" alt="Top Languages" height="180"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+<h2>🐍 Contribution Snake</h2>
 
 <div align="center">
 <picture>
@@ -88,7 +87,7 @@
 
 ---
 
-## 📞 Contact
+<h2>📞 Contact</h2>
 
 <div align="center">
 
