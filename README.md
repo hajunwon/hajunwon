@@ -82,10 +82,28 @@
 
 ---
 
+<h2>💼 외주 문의</h2>
+
+<div align="center">
+
+**보안 분야 외주 문의 항상 환영합니다!** (특히 카카오톡 관련)
+<br/>
+아래 연락처로 편하게 연락주세요.
+
+</div>
+
+---
+
 <h2>📞 Contact</h2>
 
 <div align="center">
 
+<a href="https://ow9kj1w.com/">
+  <img src="https://img.shields.io/badge/Blog-white?style=for-the-badge&logo=googlechrome&logoColor=8E54E9&color=1a1b27" alt="Blog"/>
+</a>
+<a href="https://www.youtube.com/@ow9kj1w">
+  <img src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=FF0000&color=1a1b27" alt="YouTube"/>
+</a>
 <a href="https://t.me/ow9kj1w">
   <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=2CA5E0&color=1a1b27" alt="Telegram"/>
 </a>
