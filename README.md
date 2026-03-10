@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header - Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8E54E9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;Security+Researcher+%F0%9F%94%90;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8E54E9&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Full-Stack+Developer+%F0%9F%92%BB;Security+Researcher+%F0%9F%94%90;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -41,10 +41,16 @@
 <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="ML"/>
 
 <h3>Testing & Automation</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,playwright,puppeteer&theme=dark" alt="Testing"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=selenium&theme=dark" alt="Selenium" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=playwright&theme=dark" alt="Playwright" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=puppeteer&theme=dark" alt="Puppeteer" height="48"/>
 
 <h3>Security & Reverse Engineering</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite,frida,jadx,magisk,lsposed&theme=dark" alt="Security"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite&theme=dark" alt="Burp Suite" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=frida&theme=dark" alt="Frida" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jadx&theme=dark" alt="JADX" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=magisk&theme=dark" alt="Magisk" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=lsposed&theme=dark" alt="LSPosed" height="48"/>
 
 <h3>Tools</h3>
 <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,git,github&theme=dark" alt="Tools"/>
