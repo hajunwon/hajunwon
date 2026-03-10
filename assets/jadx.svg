@@ -1,6 +1,12 @@
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="256" height="256" rx="60" fill="#242938"/>
-  <g transform="translate(56, 50)">
-    <text x="72" y="110" font-family="monospace" font-weight="bold" font-size="72" fill="#3DDC84" text-anchor="middle" dominant-baseline="middle">JADX</text>
-  </g>
+  <!-- Circular background matching JADX logo -->
+  <circle cx="128" cy="128" r="80" fill="#2D2D2D"/>
+  <!-- Colored triangle segments inspired by JADX logo -->
+  <path d="M128 48 L188 148 L128 128 Z" fill="#E8632B"/>
+  <path d="M128 48 L68 148 L128 128 Z" fill="#1A9B6C"/>
+  <path d="M68 148 L128 208 L128 128 Z" fill="#3F51B5"/>
+  <path d="M188 148 L128 208 L128 128 Z" fill="#00897B"/>
+  <!-- JADX text -->
+  <text x="128" y="138" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="48" fill="white" text-anchor="middle" dominant-baseline="middle">JADX</text>
 </svg>

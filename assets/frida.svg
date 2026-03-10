@@ -1,4 +1,13 @@
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="256" height="256" rx="60" fill="#242938"/>
-  <path d="M141.12 196h-27.25v-41.29l37.16-45.42h-37.16V54h66.88L113.87 136.62V196h27.25v-41.29l37.15-45.42h-37.15V54H74.24l66.88 82.62V196z" fill="#EF6456" transform="translate(0, 10)"/>
+  <!-- F -->
+  <path d="M44 170V86h12v36h20V86h12v84H76v-36H56v36z" fill="#EF6456" transform="translate(0,0)"/>
+  <!-- Reversed R -->
+  <path d="M100 170V86h24c14 0 22 8 22 22s-8 22-22 22h-2l24 40h-14l-22-38h-8v38zm12-50h12c6 0 10-4 10-10s-4-10-10-10h-12z" fill="#EF6456" transform="translate(256,0) scale(-1,1)"/>
+  <!-- I -->
+  <rect x="130" y="86" width="12" height="84" fill="#EF6456"/>
+  <!-- D -->
+  <path d="M152 170V86h20c20 0 34 14 34 42s-14 42-34 42zm12-12h8c14 0 22-10 22-30s-8-30-22-30h-8z" fill="#EF6456"/>
+  <!-- A -->
+  <path d="M216 170l-20-84h14l14 64 14-64h14l-20 84z" fill="#EF6456" transform="translate(-12,0)"/>
 </svg>

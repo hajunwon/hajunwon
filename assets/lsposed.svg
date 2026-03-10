@@ -1,6 +1,15 @@
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="256" height="256" rx="60" fill="#242938"/>
-  <g transform="translate(56, 50)">
-    <text x="72" y="110" font-family="monospace" font-weight="bold" font-size="42" fill="#5B8FF9" text-anchor="middle" dominant-baseline="middle">LSPosed</text>
+  <!-- Bandaid/patch icon from LSPosed logo -->
+  <g transform="translate(128,128) rotate(45)">
+    <!-- Horizontal bandaid -->
+    <rect x="-70" y="-25" width="140" height="50" rx="14" fill="none" stroke="#E991B2" stroke-width="8"/>
+    <!-- Vertical bandaid -->
+    <rect x="-25" y="-70" width="50" height="140" rx="14" fill="none" stroke="#E991B2" stroke-width="8"/>
+    <!-- Dots in center -->
+    <circle cx="-8" cy="-8" r="4" fill="#E991B2"/>
+    <circle cx="8" cy="-8" r="4" fill="#E991B2"/>
+    <circle cx="-8" cy="8" r="4" fill="#E991B2"/>
+    <circle cx="8" cy="8" r="4" fill="#E991B2"/>
   </g>
 </svg>
