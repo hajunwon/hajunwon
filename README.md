@@ -47,10 +47,10 @@
 
 <h3>Security & Reverse Engineering</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite&theme=dark" alt="Burp Suite" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=frida&theme=dark" alt="Frida" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=jadx&theme=dark" alt="JADX" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=magisk&theme=dark" alt="Magisk" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=lsposed&theme=dark" alt="LSPosed" height="48"/>
+<img src="./assets/frida.svg" alt="Frida" height="48"/>
+<img src="./assets/jadx.svg" alt="JADX" height="48"/>
+<img src="./assets/magisk.svg" alt="Magisk" height="48"/>
+<img src="./assets/lsposed.svg" alt="LSPosed" height="48"/>
 
 <h3>Tools</h3>
 <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,git,github&theme=dark" alt="Tools"/>
@@ -88,13 +88,13 @@
 
 ---
 
-<h2>💼 외주 문의</h2>
+<h2>💼 Open for Work</h2>
 
 <div align="center">
 
-**보안 분야 외주 문의 항상 환영합니다!** (특히 카카오톡 관련)
+Security consulting & development available — KakaoTalk security specialist
 <br/>
-아래 연락처로 편하게 연락주세요.
+Feel free to reach out via any channel below.
 
 </div>
 
@@ -105,13 +105,15 @@
 <div align="center">
 
 <a href="https://ow9kj1w.com/">
-  <img src="https://img.shields.io/badge/Blog-white?style=for-the-badge&logo=googlechrome&logoColor=8E54E9&color=1a1b27" alt="Blog"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome&theme=dark" alt="Blog" height="48"/>
 </a>
+&nbsp;
 <a href="https://www.youtube.com/@ow9kj1w">
-  <img src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=FF0000&color=1a1b27" alt="YouTube"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube&theme=dark" alt="YouTube" height="48"/>
 </a>
+&nbsp;
 <a href="https://t.me/ow9kj1w">
-  <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=2CA5E0&color=1a1b27" alt="Telegram"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=telegram&theme=dark" alt="Telegram" height="48"/>
 </a>
 
 </div>

@@ -1,0 +1,6 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <g transform="translate(56, 50)">
+    <text x="72" y="110" font-family="monospace" font-weight="bold" font-size="42" fill="#5B8FF9" text-anchor="middle" dominant-baseline="middle">LSPosed</text>
+  </g>
+</svg>
