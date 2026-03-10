@@ -43,15 +43,15 @@
 <h3>Testing & Automation</h3>
 <img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Testing"/>
 <br/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer"/>
+<img src="https://img.shields.io/badge/Playwright-white?style=for-the-badge&logo=playwright&logoColor=2EAD33&color=1a1b27" alt="Playwright"/>
+<img src="https://img.shields.io/badge/Puppeteer-white?style=for-the-badge&logo=puppeteer&logoColor=40B5A4&color=1a1b27" alt="Puppeteer"/>
 
 <h3>Security & Reverse Engineering</h3>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-<img src="https://img.shields.io/badge/Frida-EF6456?style=for-the-badge&logo=frida&logoColor=white" alt="Frida"/>
-<img src="https://img.shields.io/badge/JADX-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="JADX"/>
-<img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=magisk&logoColor=white" alt="Magisk"/>
-<img src="https://img.shields.io/badge/LSPosed-5B4FCF?style=for-the-badge&logo=xda--developers&logoColor=white" alt="LSPosed"/>
+<img src="https://img.shields.io/badge/Burp_Suite-white?style=for-the-badge&logo=burpsuite&logoColor=FF6633&color=1a1b27" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Frida-white?style=for-the-badge&logo=frida&logoColor=EF6456&color=1a1b27" alt="Frida"/>
+<img src="https://img.shields.io/badge/JADX-white?style=for-the-badge&logo=android&logoColor=3DDC84&color=1a1b27" alt="JADX"/>
+<img src="https://img.shields.io/badge/Magisk-white?style=for-the-badge&logo=magisk&logoColor=00AF9C&color=1a1b27" alt="Magisk"/>
+<img src="https://img.shields.io/badge/LSPosed-white?style=for-the-badge&logo=xda-developers&logoColor=F59812&color=1a1b27" alt="LSPosed"/>
 
 <h3>Tools</h3>
 <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,git,github&theme=dark" alt="Tools"/>
@@ -64,12 +64,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hajunwon&theme=tokyonight&hide_border=true&background=0D1117&ring=8E54E9&fire=8E54E9&currStreakLabel=8E54E9" alt="GitHub Streak" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hajunwon&theme=tokyonight&hide_border=true&background=0D1117&ring=8E54E9&fire=8E54E9&currStreakLabel=8E54E9" alt="GitHub Streak"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hajunwon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E54E9&icon_color=8E54E9&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajunwon&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E54E9&layout=compact&langs_count=8" alt="Top Languages" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hajunwon&theme=tokyonight" alt="Profile Details" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hajunwon&theme=tokyonight" alt="Repos per Language" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hajunwon&theme=tokyonight" alt="Most Commit Language" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hajunwon&theme=tokyonight" alt="Stats" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hajunwon&theme=tokyonight&utcOffset=9" alt="Productive Time" height="180"/>
 
 </div>
 
@@ -92,7 +97,7 @@
 <div align="center">
 
 <a href="https://t.me/ow9kj1w">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=2CA5E0&color=1a1b27" alt="Telegram"/>
 </a>
 
 </div>
